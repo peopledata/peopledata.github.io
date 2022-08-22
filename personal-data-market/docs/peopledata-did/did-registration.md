@@ -90,3 +90,12 @@ Diagram showing Client-Managed Secret Mode
 
 ## 5. Operations
 
+### 5.1 `create()`
+
+This function creates a new DID and associated DID document, according to a known DID method, using various options and optionally an initial DID document.
+
+### 5.2 `delete()`
+
+delete an identifier.
+
+### 5.3 `deactive()`
