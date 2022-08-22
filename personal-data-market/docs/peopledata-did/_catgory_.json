@@ -1,0 +1,9 @@
+{
+    "label": "Peopledata DID",
+    "position": 3,
+    "link": {
+      "type": "generated-index",
+      "description": "PeopleData DID Method."
+    }
+  }
+  
