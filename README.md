@@ -6,6 +6,9 @@
 2. `cd personal-data-amrket` 
 3. `npm install`
 4. edit/update documents
+
 5. `GIT_USER=<> DEPLOTMENT_BRANCH=gh_pages yarn deploy`
-6. browser 'http://<>.github.io
+   or use github workflow : re-run all jobs
+
+6. browser 'http://peopledata.github.io
 

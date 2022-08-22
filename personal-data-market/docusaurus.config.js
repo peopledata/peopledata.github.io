@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'PeopleData Documents',
   tagline: 'Data Sovereignty and Privacy protection is a central aspect of the PeopleData Initiatives',
-  url: 'https://https://glowing-waddle-94288976.pages.github.io/',
+  url: 'https://peopledata.github.io/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -17,7 +17,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'peopledata', // Usually your GitHub org/user name.
-  projectName: 'https://github.com/peopledata/peopledata.github.io', // Usually your repo name.
+  projectName: 'peopledata.github.io', // Usually your repo name.
   trailingSlash: false,
   
 
