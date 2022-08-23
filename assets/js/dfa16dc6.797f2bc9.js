@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpersonal_data_market=self.webpackChunkpersonal_data_market||[]).push([[4152],{4469:a=>{a.exports=JSON.parse('{"name":"docusaurus-plugin-content-blog","id":"default"}')}}]);
