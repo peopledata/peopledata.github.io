@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpersonal_data_market=self.webpackChunkpersonal_data_market||[]).push([[1713],{3457:e=>{e.exports=JSON.parse('[{"label":"peopledata","permalink":"/blog/tags/peopledata","count":2},{"label":"hello","permalink":"/blog/tags/hello","count":2},{"label":"documents","permalink":"/blog/tags/documents","count":1}]')}}]);
