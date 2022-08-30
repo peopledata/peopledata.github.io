@@ -10,6 +10,11 @@ The overview of DID architecture and the relationship of the basic components il
 ![](./img/did_detailed_architecture_overview.svg)
 
 
+[DIDs fundamentals and deep dive](https://www.youtube.com/watch?v=SHuRRaOBMz4) webinar by Markus Sabadello, Founder and CEO of Danube Tech, and Drummond Reed, Chief Trust Officer at Evernym, co-authors of the DID chapter of the “Self-Sovereign Identity: 
+Decentralized Digital Identity and Verifiable Credentials” book published by Manning will explain all the fundamentals of DIDs.
+
+
+
 ## Architectural Considerations
 
 ![](./img/did_detailed_architecture_overview.svg)
