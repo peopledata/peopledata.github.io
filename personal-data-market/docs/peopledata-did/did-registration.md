@@ -99,3 +99,6 @@ This function creates a new DID and associated DID document, according to a know
 delete an identifier.
 
 ### 5.3 `deactive()`
+
+deactive an identifier.
+
